@@ -1,0 +1,74 @@
+
+.centered {
+    position: absolute;
+    top: 800%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font-size: 180%;
+}
+
+.centered1 {
+    position: absolute;
+    top: 900%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font-size: 100%;
+}
+.centered2 {
+    position: absolute;
+    top: 700%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font-size: 150%;
+
+}
+
+.centered3 {
+    position: absolute;
+    top: 790%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 100%;
+}
+
+.centered4 {
+    position: absolute;
+    top: 690%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 200%;
+}
+
+
+.centered5 {
+    position: absolute;
+    top: 790%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 100%;
+}
+
+.centered6 {
+    position: absolute;
+    top: 990%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 200%;
+}
+
+
+.centered7 {
+    position: absolute;
+    top: 1100%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 100%;
+}
